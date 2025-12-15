@@ -2,14 +2,16 @@
 
 ## Project Overview
 
-This project presents an end-to-end Power BI analysis of consumer behaviour and shopping habits based on a real-world retail dataset.  
-The objective was to transform raw transactional and behavioural data into clear, business-focused insights covering customers, products, discounts, reviews, and delivery performance.
+This project demonstrates how Power BI can be used to analyse customer purchasing behaviour and translate transactional data into clear, business-focused insights.
 
-The project includes:
-- data cleaning and transformation in Power Query,
-- relational data modelling,
-- interactive dashboards,
-- and business insight generation.
+Using a realistic consumer shopping dataset, the analysis explores sales structure across products and categories, the impact of discounts and subscriptions, customer review patterns, and delivery preferences.
+
+The focus was on analytical clarity, appropriate metric selection, and building an intuitive report structure rather than maximising the number of visuals.
+
+Data preparation was handled in Power Query, followed by a relational data model designed to support cross-dimensional analysis across customers, products, time, and delivery methods.
+
+The final report is designed for non-technical stakeholders to support discussions around customer behaviour, promotional effectiveness, and purchasing patterns.
+
 
 ---
 
